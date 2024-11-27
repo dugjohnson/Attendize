@@ -3,7 +3,7 @@
  * Generated via "php artisan localization:missing" at 2018/04/17 16:35:44
  *************************************************************************/
 
-return array(
+return [
     'connection_success' => 'Успех, Подсоединение работает!',
     'connection_failure' => 'Невозможно подключиться! Пожалуйста, проверьте ваши настройки',
     'app_settings' => 'Настройки приложения',
@@ -48,4 +48,4 @@ return array(
                                          "<a href='/signup'>Сделать это</a><br />Если вы уже создали пользователя по умолчанию, вы можете <a href='/login'>Войти здесь</a>",
     'test_database_connection' => 'Тестовое подключение к базе данных',
     'title' => 'Установка Attendize',
-);
+];

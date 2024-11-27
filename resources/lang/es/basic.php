@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
     'apply'             => 'Aplicar',
     'action'            => 'Acción',
     'affiliates'        => 'Afiliados',
@@ -60,4 +60,4 @@ return array(
     'LLH:obsolete' => [
             'months_long' => 'Enero|Febrero|Marzo|Abril|Mayo|Junio|Julio|Agosto|Septiembre|Octubre|Noviembre|Diciembre',
     ],
-);
+];

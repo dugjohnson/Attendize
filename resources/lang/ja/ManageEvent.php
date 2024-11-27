@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
     'all_attendees'                           => 'すべての出席者',
     'all_attendees_cancelled'                 => 'この注文のすべての出席者がキャンセルされました。',
     'all_order_refunded'                      => 'この注文のすべての:moneyは返金されました。',
@@ -93,7 +93,7 @@ return array(
     'update_order'                            => '注文を更新',
     'widgets'                                 => 'ウィジェット',
     'LLH:obsolete'                            =>
-        array(
+        [
             'create_question' => '質問を作成する',
-        ),
-);
+        ],
+];
