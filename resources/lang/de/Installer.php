@@ -3,7 +3,7 @@
  * Generated via "php artisan localization:missing" at 2018/04/17 16:35:44
  *************************************************************************/
 
-return array(
+return [
     'connection_success' => 'Erfolg! Ihre Verbindung funktioniert!',
     'connection_failure' => 'Keine Verbindung! Bitte überprüfen Sie die Einstellungen',
     'app_settings' => 'App Einstellungen',
@@ -47,4 +47,4 @@ return array(
                                          "<a href='/signup'>einen Standartbenutzer erstellen</a><br />Wenn Sie bereits einen Standart Benutzer erstellt haben können Sie sich hier <a href='/login'>einloggen </a>",
     'test_database_connection' => 'Datenbankverbindung testen.',
     'title' => 'Attendize Web Installer',
-);
+];

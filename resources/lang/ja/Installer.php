@@ -1,6 +1,6 @@
 <?php
 
-return array(
+return [
     'connection_success'                          => 'Success, Your connection works!',
     'connection_failure'                          => 'Unable to connect! Please check your settings',
     'app_settings'                                => 'App settings',
@@ -45,4 +45,4 @@ return array(
                                                      "<a href='/signup'>Signup Default User</a><br />If you have already created a default user you can <a href='/login'>Login Here </a>",
     'test_database_connection'                    => 'Test Database Connection',
     'title'                                       => 'Attendize Web Installer',
-);
+];

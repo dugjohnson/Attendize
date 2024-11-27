@@ -3,7 +3,7 @@
  * Generated via "php artisan localization:missing" at 2018/04/17 16:35:44
  *************************************************************************/
 
-return array(
+return [
     'connection_success' => 'Bravo, votre connexion fonctionne !',
     'connection_failure' => 'Impossible de se connecter ! Merci de vérifier vos paramètres',
     'app_settings' => 'Paramètres de l\'application',
@@ -48,4 +48,4 @@ return array(
                                          "<a href='/signup'>créer l\'utilisateur par défaut</a><br />Si vous avez déjà créé un utilisateur par défaut, vous pouvez <a href='/login'>vous connecter ici </a>",
     'test_database_connection' => 'Test de la connexion à la base de données',
     'title' => 'Installateur Web d\'Attendize',
-);
+];
